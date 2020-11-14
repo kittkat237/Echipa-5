@@ -1,0 +1,16 @@
+<b class="first"><strong>Ce sunt scenariile?</strong></b>
+			<p>Scenariile reprezinta diferitele stari prin care trece o tara in anumite situatii de urgenta.Acestea sunt de trei tipuri in functie de gravitatea situatiei:</p>
+			<h3>Scenariul verde</h3>
+			,<p>Acest ccenariu este cel mai optim si permite cetatenilor drepturile legale fara a impune vreo interdictie.</p>
+			<h3>Scenariul galben</h3>
+			<p>-organizarea si desfasurarea activitatii in institutiile de spectacole si/sau concerte este permisa, cu participarea publiculuipana la 30% din capacitatea -organizarea si desfasurarea activitatii in institutiile de spectacole si/sau concerte este permisa, cu participarea publiculuipana la 30% din capacitatea maxima a spatiului;</p>
+			<p>-interzicerea organizarii si desfasurarii spectacolelor de tipul drive-in, precum si desfasurarii in aer liber a spectacolelor,concertelor, festivalurilor publice si private sau a altor evenimente culturale ,dupa caz</p>
+			<p>--activitatea cu publicul a aoperatorilor economici care desfasoara activitati de preparare, comercializare si consum al produselor alimentare si/sau bauturilor alcoolice si non-alcoolice,de tipul restaurante si cafenelelor, in interiorul cladirilor,este permisa fara a depasi 30% din capacitatea maxima a spatiului in intervalul orar 6:00-23:00;</p>
+			<h3>Scenariul roșu</h3>
+			<p>Este interzisă desfășurarea activității în cadrul cinematografelor, instituțiilor de spectacole și/sau concerte, activitatea cu publicul a operatorilor economici care desfășoară activități de preparare, comercializare și consum al produselor alimentare și/sau băuturilor alcoolice și nealcoolice, de tipul restaurantelor și cafenelelor, în interiorul clădirilor, precum și activitatea cu publicul a operatorilor economici licențiați în domeniul jocurilor de noroc este interzisă.De asemenea, purtarea măștii de protecție este obligatorie pentru toate persoanele care au împlinit vârsta de 5 ani, în toate spațiile publice deschise.</p>
+			<b>Care sunt simptomele COVID-19?</b>
+			<p>Febra;Fatigabilitate/astenie fizica – al doilea simptom ca frecventa, dupa febra;Tuse seaca;Anorexie;Expectoratie/tuse productiva</p>
+			<p>COVID-19se manifesta precum o gripa,o raceala,insa un bun simptom diferentiator il reprezinta pirderea simturilor de gust si miros </p>
+			<b>Cum ne putem peoteja împotriva COVID-19?</b>
+			<p>Acest video prezinta perfect modul in care noi ne putem proteja impotriva infectiei cu coronavirus:https://www.youtube.com/watch?v=tz0nb7R_ZF0</p>
+			<p></p>

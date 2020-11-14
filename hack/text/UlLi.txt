@@ -1,0 +1,15 @@
+<ul><li>febră,</li>
+<li>tuse seacă,</li>
+<li>oboseală.</li></ul>
+<h2>Simptome mai puțin frecvente:</h2>
+<ul><li>dureri de cap și dureri musculare,</li>
+<li>durere în gât,</li>
+<li>diaree,</li>
+<li>conjunctivită,</li>
+<li>dureri de cap,</li>
+<li>pierderea gustului sau a mirosului,</li>
+<li>o iritație la nivelul pielii sau o decolorare a degetelor de la mâini sau de la picioare.</li>
+<li>Simptome grave:</li>
+<li>dificultăți de respirație sau dispnee,</li>
+<li>durere sau presiune toracică,</li>
+<li>incapacitatea de a vorbi sau de a se mișca.</ul>
